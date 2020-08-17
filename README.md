@@ -70,6 +70,6 @@ _Scandinavia Sales Consultant_
 
 ## Hobbies
 
-Hot Yoga: to relax my mind and improve my physical wellbeing
-Travelling: everywhere and as often as possible
-Singing: mostly in a car now but I graduated from Jazz School as a solo singer
+- Hot Yoga: to relax my mind and improve my physical wellbeing
+- Travelling:  everywhere and as often as possible
+- Singing: mostly in my car but I did graduate from Jazz School as a solo singer
