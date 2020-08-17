@@ -1,44 +1,37 @@
-## Your Name
+## Viktorija Jusko
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A multilingual professional currently studying at Makers Academy with the intention of starting a new career as a software developer.I am an approachable individual with excellent communication skills, self-motivated and I always challenge myself to meet stretching goals. Eager to learn and build my analytical skills, problem solving and confidence in programming & code.
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Experienced in exceeding targets and leading co-worker teams. Polite and confident and all times, with a gift that develops positive internal and external relationships. I consider myself a confident negotiator, that thrives in highly pressurised, challenging environments. I am a strong team player but equally comfortable working on own initiative.
 
-#### This Skill
+#### Flexibility and Adaptability
 
-- Experience
-- Achievements
-- Evidence
+I have studied in the UK, Latvia, France and travelled around the world, this has developed my ability to adjust to different cultures and environments.   Makers introduced different ways of working, thinking and learning that I have not necessarily experienced before, however I am throughly enjoying the process and challenge.   
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Problem Solving & Attention to Detail
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Having spent over 7 years in highly pressured and competitive sales environment I have been honoured for my attention to detail and problem solving. Since I started learning to code I have been working on developing and improving this skill even more - writing high quality and error free code. Breaking down problems into smaller issues and connecting the dots has given me incredible satisfaction and made me approach issues from a new angle.
+
+#### Communication
+
+Working and studying overseas has made me an open and great communicator. My ability to adjust to different cultures has helped me build meaningful external and internal relationships. Having dealt with different clients while working in travel and sales industry I always stay highly alert, empathetic and objective.
+
+#### Languages
+
+- Russian - native
+- Latvian - native
+- English - fluent
+- French - beginner
+- Italian - beginner
+
+## Projects
+
+... watch this space
+
 
 ## Education
 
@@ -49,16 +42,34 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Newcastle University
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Hons International Business, Management & French
 
-#### Any other qualifications
+#### Essec Business School
 
-That in some arguable way make you a better software developer or well-rounded person
+- International Business & Finance
+
+## Experience
+
+**Art Tours ltd** (Oct'19 - Aug'20)  
+_Tour Designer_
+
+
+**Wexas Travel** (Oct'18 - Oct'19)  
+_Senior Sales Consultant_
+
+
+**Original Travel** (Mar'17 - Oct'18)  
+_Luxury Sales Consultant_
+
+
+**Magnetic North Travel** (Aug'15 - Mar'17)  
+_Scandinavia Sales Consultant_
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Hot Yoga: to relax my mind and improve my physical wellbeing
+Travelling: everywhere and as often as possible
+Singing: mostly in a car now but I graduated from Jazz School as a solo singer
